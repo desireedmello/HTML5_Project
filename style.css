@@ -1,0 +1,66 @@
+html {
+  font-size: 22px;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(images/background.jpg);
+  background-repeat: no-repeat;
+  color: pink;
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+  padding: 1rem;
+  min-height: 100vh;
+  min-width: 800px;
+  border-left: 1px solid pink;
+  border-right: 1px solid pink;
+  text-align: center;
+}
+
+th,
+td,
+caption {
+  border: 1px solid palevioletred;
+  border-collapse: separate;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0.5rem;
+}
+
+table {
+  margin: 0 auto;
+  display: table;
+}
+
+a {
+  color: palevioletred;
+}
+
+a:visited {
+  color: pink;
+}
+
+a:hover,
+a:active {
+  color: #f64a8a;
+}
+
+ul {
+  display: table;
+  margin: 0 auto;
+  text-align: left;
+}
+
+hr {
+  border-top: 1px solid pink;
+}
+
+p,
+dl,
+dt {
+  margin-right: 150px;
+  margin-left: 80px;
+}

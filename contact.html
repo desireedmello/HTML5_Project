@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Desiree D'Mello">
+    <meta name="description" content="Contact Us page for Makeup Lore Website">
+    <title>Makeup Lore</title>
+    <link rel="icon" href="images/makeuplore.ico" type="image/x-icon">
+    <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+
+<body>
+    <header>
+        <h1>Contact Us</h1>
+        <nav>
+            <ul>
+                <li>
+                    <a href="/">Home</a>
+                </li>
+                <li>
+                    <a href="#about">About <abbr title="Makeup Lore"> ML</abbr></a>
+                </li>
+                <li>
+                    <a href="#products">Our Top Products</a>
+                </li>
+                <li>
+                    <a href="timing.html">Store Timings</a>
+                </li>
+            </ul>
+        </nav>
+        <figure>
+            <img src="images/lipstick.jpg" alt="Lipstick Shades" width="600" height="400">
+        </figure>
+        <figcaption>Lipstick Shades</figcaption>
+    </header>
+    <hr>
+    <main>
+        <section>
+            <h2>Contact Form</h2>
+            <form action="https://httpbin.org/get" method="get">
+                <fieldset>
+                    <legend>Message Us Here</legend>
+                    <p>
+                        <label for="firstName">First Name:</label>
+                        <input type="text" name="firstName" id="firstName" placeholder="Jane" autocomplete="on" required
+                            autofocus>
+                    </p>
+                    <p>
+                        <label for="lastName">Last Name:</label>
+                        <input type="text" name="lastName" id="lastName" placeholder="Jane" autocomplete="on" required
+                            autofocus>
+                    </p>
+                    <p>
+                        <label for="Email">Email:</label>
+                        <input type="email" name="email" id="email" placeholder="janedoe@gmail.com" autocomplete="on"
+                            required>
+                    </p>
+                    <p>
+                        <label for="password">Password:</label>
+                        <input type="password" name="password" id="password" placeholder="your password" required>
+                    </p>
+                    <p>
+                        <label for="product">Please choose your favourite products</label>
+                        <br><br>
+                        <select name="product" id="product" size="5" multiple>
+                            <optgroup label="Lipstick Colors">
+                                <option value="red">Red</option>
+                                <option value="pink" selected>Pink</option>
+                                <option value="Brown">Brown</option>
+                            </optgroup>
+                            <optgroup label="Foundation Colors">
+                                <option value="fair">Fair</option>
+                                <option value="warm" selected>Warm</option>
+                                <option value="deep">Deep</option>
+                            </optgroup>
+                        </select>
+                        <br><br>
+                        <label for="message">Leave Us A Message!</label>
+                        <br><br>
+                        <textarea name="message" id="message" cols="30" rows="10"
+                            placeholder="Type in your message here..."></textarea>
+                    </p>
+                    <button type="submit">Submit</button>
+                    <button type="Reset">Reset</button>
+                </fieldset>
+            </form>
+        </section>
+        <section>
+            <h2>You Can Find Us Here</h2>
+            <address>
+                123 Rideau Road, <br>
+                Ottawa, ON - K1X 1A3 <br><br>
+                Call Us: <a href="tel:+1234567890">(123) 456-7890</a>
+            </address>
+        </section>
+        <p>
+            <a href="#">Back to Top</a>
+        </p>
+    </main>
+    <hr>
+    <footer>
+        Copyright &copy; Makeup Lore
+    </footer>
+</body>
+
+</html>
