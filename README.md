@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  Makeup Lore is a dummy makeup store website providing an About page, Store Timing page and a Contact page. It was developed with a major focus on HTML with a little bit of CSS styling. Since makeup is a trending topic and I love looking into new brands and products I designed this website with the sole focus on concentrating more on the semantics aspects of HTML while designing the webpage. The entire code is available for reference in this repository. Please leave me some comments on what you feel I could change or add to the website. Your feedback is appreciated!!🥰
+  Makeup Lore is a dummy makeup store website providing an About page, Store Timing page and a Contact page. It was developed with a major focus on HTML5 with a little bit of CSS3 styling. Since makeup is a trending topic and I love looking into new brands and products I designed this website with the sole focus on concentrating more on the semantics aspects of HTML while designing the webpage. The entire code is available for reference in this repository. Please leave me some comments on what you feel I could change or add to the website. Your feedback is appreciated!!🥰
 
 </p>
 
