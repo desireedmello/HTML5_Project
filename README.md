@@ -23,24 +23,24 @@ This contains an image sample of the Store Timing Page for the Makeup Lore Websi
 This contains an image sample of the Contact Us Page for the Makeup Lore Website.
 
 - [contact.html](https://github.com/desireedmello/HTML_Project/blob/cdd0e478f69b53dafcc82da199193c10ec3e4809/contact.html)<br>
-This is the HTML code for the Contact Us Page of the Makeup Lore Website.
+This is the HTML5 code for the Contact Us Page of the Makeup Lore Website.
 
 - [index.html](https://github.com/desireedmello/HTML_Project/blob/cdd0e478f69b53dafcc82da199193c10ec3e4809/index.html)<br>
-This is the HTML code for the Main Page (About page) of the Makeup Lore Website.
+This is the HTML5 code for the Main Page (About page) of the Makeup Lore Website.
 
 - [style.css](https://github.com/desireedmello/HTML_Project/blob/cdd0e478f69b53dafcc82da199193c10ec3e4809/style.css)<br>
-This is the CSS code for styling certain elements of the Makeup Lore Website.
+This is the CSS3 code for styling certain elements of the Makeup Lore Website.
 
 - [timing.html](https://github.com/desireedmello/HTML_Project/blob/cdd0e478f69b53dafcc82da199193c10ec3e4809/timing.html)<br>
-This is the HTML code for the Store Timing Page of the Makeup Lore Website.
+This is the HTML5 code for the Store Timing Page of the Makeup Lore Website.
 
 <hr>
 
 <h2>Coding Languages Used</h2>
 
-- HTML
+- HTML5
 
-- CSS
+- CSS3
 
 <hr>
 
